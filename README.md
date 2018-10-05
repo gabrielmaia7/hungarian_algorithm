@@ -3,7 +3,7 @@
 ## What?
 
 This repo contains a crude, but a good shot at, an implementation in Python of the Hungarian Algorithm (or the Munkres Assignment ALgorithm); one of the coolest algorithms I've studied in graph theory (you can't say it isn't).
-For a full description of the algorithm and its theoretical basis, visit the [Wikipedia link](https://en.wikipedia.org/wiki/Hungarian_algorithm])<br>.
+For a full description of the algorithm and its theoretical basis, visit the [Wikipedia link](https://en.wikipedia.org/wiki/Hungarian_algorithm]).<br>
 
 In short, the Hungarian Algorithm (or Method) aims at solving a specific kind o problem, which is an assignment problem. More so, it tries to solve it in polynomial time, which is the most compelling reason to use it.
 An assignment problem consists mainly on associating a group of tasks *T* to a set of workers *W*, while considering the cost matrix *C*, which describes the cost *C[i,j]* of assigning task *T[i]* to worker *W[j]*.
